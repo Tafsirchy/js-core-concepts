@@ -3,6 +3,7 @@ let data;
 // data = ''; //empty string is falsy
 // data = ' '; // has an white space
 // data = '0'; // 0 in a string is truthy
+// data = -0; // -0 is falsy
 // data = false; // false is falsy
 // data = true; // true is truthy
 // data = null; // null is falsy
