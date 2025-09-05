@@ -30,6 +30,7 @@ if(!data) { //! --> is called logical not operator and the condition will be tru
 // capture all positive value
 // double not (!!)
 // capture any value to boolean (ture false)
+// !! ---> give actual boolean conversion of any value
 if(data === true) {
     console.log('only true form inside the double not or if block');
 }
